@@ -1,5 +1,3 @@
-![Header image](assets/github_header.png)
-
 I enjoy programming, watching movies and playing games across various genres.
 
 Feel free to connect with me on Telegram!
